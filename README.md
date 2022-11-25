@@ -6,3 +6,10 @@ We hypothesize that this finding is due to short term stress at work may be asso
 
 ## References:
 1. Boyle RE, Jonker L, Xirasagar S, Okut H, Badgett RG. Workforce wellbeing and hospital mortality. 2021 Annual Meeting of the Society of General Internal Medicine; 2021 April; Virtual. Society of General Internal Medicine. https://doi.org/10.1007/s11606-021-06830-5
+
+rbadgett@kumc.edu
+
+-------------------------------
+
+[Edit this page](../../edit/master/README.md) - [History](../../commits/master/README.md)  - 
+[Issues and comments](../../issues?q=is%3Aboth+is%3Aissue)
