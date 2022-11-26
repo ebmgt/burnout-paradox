@@ -4,9 +4,13 @@ Explaining the burnout paradox
 
 Short url: http://ebmgt.github.io/burnout-paradox
 
-This project was undertaken due to the finding in our second NHS study which quantified the contributions of burnout (measured by "During the last 12 months have you felt unwell as a result of work related stress?"), engagement, and job recommendation to SHMI. This analysis unexpectedly found that higher burnout was associated with *lower* Summary Hospital-level Mortality Indicator (SHMI)(1).
+This project was undertaken due to the finding in our second NHS study which quantified the contributions of burnout, engagement, and job recommendation to SHMI. 
 
-We hypothesize that this finding is due to short term stress at work may be associated with improved performance. The detection of this may be due to the unqiue data structure of the NHS Staff Surveys in which burnout is only measured over the last year.
+Until recently, burnout in the NHS was best measured by "During the last 12 months have you felt unwell as a result of work related stress?" About 35% to 40% of staff before COVID answered yes to this question ([link to plot at NHS - https://www.nhsstaffsurveys.com/results/interactive-results/](https://public.tableau.com/shared/XMYRNQWDR?:display_count=n&:origin=viz_share_link))
+
+This analysis unexpectedly found that higher burnout was associated with *lower* Summary Hospital-level Mortality Indicator (SHMI)(1).
+
+We hypothesize that this finding is due to short term stress at work may be associated with improved performance. The detection of this may be due to the unqiue data structure of the NHS Staff Surveys in which burnout is only measured over the last year. So, the workforce can improve short term performance under stress.
 
 This study is important as it may help explain the gap between practice and evidence-based management (EBMgt) (2-5).
 
