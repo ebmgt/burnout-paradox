@@ -2,7 +2,7 @@
 Explaining the burnout paradox
 =================================
 
-Short url: http://openmetaanalysis.github.io/burnout-paradox
+Short url: http://ebmgt.github.io/burnout-paradox
 
 This project was undertaken due to the finding in our second NHS study which quantified the contributions of burnout (measured by "During the last 12 months have you felt unwell as a result of work related stress?"), engagement, and job recommendation to SHMI. This analysis unexpectedly found that higher burnout was associated with *lower* Summary Hospital-level Mortality Indicator (SHMI)(1).
 
