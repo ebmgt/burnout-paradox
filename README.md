@@ -15,6 +15,10 @@ We hypothesize that this finding is due to short term stress at work may be asso
 This study is important as it may help explain the gap between practice and evidence-based management (EBMgt) (3-7).
 
 ## Methods
+* Starting in 2021, the NHS has added the following questions:
+![image](https://user-images.githubusercontent.com/5208051/204459371-4222c399-5d12-4c6f-9460-fd6191c285d9.png)
+These new questions are important as depersonalization subscale may have the most impact on quality of care (8).
+
 ### Data set
 [Data](https://github.com/ebmgt/burnout-paradox/tree/main/data)
 
@@ -29,6 +33,7 @@ This study is important as it may help explain the gap between practice and evid
 4. Rynes, S. L., Brown, K. G., Colbert, A. E., & Hansen, R. A. (2002). Seven Common Misconceptions about Human Resource Practices: Research Findings versus Practitioner Beliefs and Executive Commentary. The Academy of Management Executive (1993-2005), 16(3), 92–103. Available from: https://www.jstor.org/stable/4165871
 5. Shapiro, D. L., & Kirkman, B. (2018). It’s Time to Make Business School Research More Relevant. Harvard Business Review. Available from: https://hbr.org/2018/07/its-time-to-make-business-school-research-more-relevant
 6. Shapiro, D. L., Kirkman, B. L., & Courtney, H. G. (2007). Perceived Causes and Solutions of the Translation Problem in Management Research. Academy of Management Journal, 50(2), 249–266. doi:[10.5465/amj.2007.24634433](https://doi.org/10.5465/amj.2007.24634433)
+7. Hodkinson A, Zhou A, Johnson J, Geraghty K, Riley R, Zhou A, Panagopoulou E, Chew-Graham CA, Peters D, Esmail A, Panagioti M. Associations of physician burnout with career engagement and quality of patient care: systematic review and meta-analysis. BMJ. 2022 Sep 14;378:e070442. PMID: [36104064](http://pubmed.gov/36104064)
 
 This page maintained by rbadgett@kumc.edu on behalf of the research team.
 
