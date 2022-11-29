@@ -20,6 +20,9 @@ This study is important as it may help explain the gap between practice and evid
 ![image](https://user-images.githubusercontent.com/5208051/204459371-4222c399-5d12-4c6f-9460-fd6191c285d9.png)
 These new questions are important as depersonalization subscale may have the most impact on quality of care (8).
 
+The prevalences of these questions in 2021 are available at https://public.tableau.com/shared/QGTDCZKMN?:display_count=n&:origin=viz_share_link 
+![image](https://user-images.githubusercontent.com/5208051/204475806-d05f2359-0e3d-4473-a10f-05d3990ed6c1.png)
+
 ### SHMI
 Hospital Summary Hospital-level Mortality Indicator (SHMI) annual reports are available at https://digital.nhs.uk/data-and-information/publications/statistical/shmi#past-publications
 
