@@ -15,14 +15,16 @@ We hypothesize that this finding is due to short term stress at work may be asso
 This study is important as it may help explain the gap between practice and evidence-based management (EBMgt) (3-7).
 
 ## Methods
+### Staff surveys
 * Starting in 2021, the NHS has added the following questions each autumn:
 ![image](https://user-images.githubusercontent.com/5208051/204459371-4222c399-5d12-4c6f-9460-fd6191c285d9.png)
 These new questions are important as depersonalization subscale may have the most impact on quality of care (8).
 
+### SHMI
 Hospital Summary Hospital-level Mortality Indicator (SHMI) annual reports are available at https://digital.nhs.uk/data-and-information/publications/statistical/shmi#past-publications
 
 ### Data set
-[Data](https://github.com/ebmgt/burnout-paradox/tree/main/data)
+[Data](https://github.com/ebmgt/burnout-paradox/tree/main/data) (under development)
 
 ### Statistical analysis
 [R code](https://github.com/ebmgt/burnout-paradox/tree/main/code)
